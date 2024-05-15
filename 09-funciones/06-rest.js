@@ -2,9 +2,9 @@ function suma(a, b, ...rest) {
   // El parámetro de rest siempre debe ir de último
   //   Despues de los 3 puntos se escribe el nombre del parámetro que indica todo lo demás
   // Esto no significa que tenga que llamarse rest
-  console.log(rest);
+  console.log(a, b, rest);
 }
-// suma(1, 2, 3, 4);
+suma(1, 2, 3, 4);
 
 // Funciona como arrow function
 const suma2 = (a, b, ...rest) => {
