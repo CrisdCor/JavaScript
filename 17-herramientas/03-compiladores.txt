@@ -1,0 +1,9 @@
+******************************************************************************************************************************
+TYPESCRIPT
+typescriptlang.org
+
+Este es un súper set de JavaScript, esto significa que todo códipo JavaScript es válido para typescript, pero no al contrario,
+pero typescript nos estregará beneficios al momento de usar VS Code porque captura la gran mayoría de los errores 
+no cuando la aplicación se esté ejecutando sino cuando la estás escribiendo, de esta manera disminuyen los errores
+en producción.
+******************************************************************************************************************************

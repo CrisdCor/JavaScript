@@ -1,0 +1,43 @@
+******************************************************************************************************************************
+REACT
+react.dev
+
+React solo se encargará de la vista, pero cuando se trabaja con React van a existir otras herramientas que necesariamente
+vamos a tener que incluir dentro de nuestro flujo de trabajo como por ejemplo:
+- React Router: Nos permitirá ejecutar código dependiendo de donde caiga en el usuario en URL
+En conclusión, React es una librería pero todas las herramientas que tendremos que usar para trabajar con ella
+va a hacer que nosotros estemos trabajando con nuestro propio framework, es deicr, que el framework no sería React
+sino el conjunto de estas herramientas.
+******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+NEXT
+nextjs.org
+
+Este nos permitirá crear aplicaciones con React, pero que estas van a ser renderizadas incialmente en el servidor,
+los principales beneficios de renderizar nuestras aplicaciones por el lado del servidor son tres:
+1. Nuestra aplicación aparacerá en Google, o mejor dicho, cualquier motor de búsqueda.
+2. El segundo beneficio es que al usuario le enviaremos inmediatamente HTML, por lo que el tiempo que tendrá
+que esperar el usuario para interactuar con nuestra aplicación la primera vez que ingresa será mucho más rápido.
+3. También nos entrega un Router para ejecutar el código dependiendo de donde caiga el usuario
+******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+ANGULAR
+angular.io
+
+Este también permite construir aplicaciones pero de grado empresarial para la web, es un framework soportado por Google,
+y desarollado y mantenido por Google y hace parte de los más utilizados. Sin embargo, su curva de aprendizaje es más
+pendiente, ya que cuenta con muchas más herramientas desde cero que tendrás que aprender a usar.
+******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+VUE
+vue.org
+
+Este es un framework mucho más pequeño comparado con los anteriores y mucho más sencillo de aprender, es decir, la 
+construcción de las aplicaciones que desarrolles será mucho más rápido. Sin embargo, es el menos popular.
+******************************************************************************************************************************

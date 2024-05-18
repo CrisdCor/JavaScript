@@ -1,0 +1,46 @@
+******************************************************************************************************************************
+LODASH
+lodash.com
+
+Esta librería nos permite hacer tareas cotidianas que tenemos que hacer con JavaScritp
+pero de una manera más sencilla.
+******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+RAMDAJS
+ramdajs.com
+
+Es similar a la anterior pero su enfoque es más funcional y su curva de aprendizaje es más alta, se recomienda arrancar 
+con lodash que puede ser un poco más sencilla.
+******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+JQUERY
+jquery.com
+
+Fue una herramienta muy popular, hay personas que actualmente consideran que está ya muy olvidada, en sí esta
+herramienta permite hacer manipulación del DOM pero con menos código.
+
+Esto es recomendada usarla solo en caso de que las interacciones con el usuario sean sencillas, en caso de 
+ser más complejas es mejor usar otras liberarías
+******************************************************************************************************************************
+
+******************************************************************************************************************************
+CHARTJS
+chartjs.org
+
+Esta librería nos permite generar gráficos en nuestras aplicaciones, es decir, puede ser útil para aplicaciones 
+que requieren un grado más empresarial donde se quieran ver reportes, tendencias, etc.
+******************************************************************************************************************************
+
+
+******************************************************************************************************************************
+REACT
+react.dev
+
+Esta es una de las liberarías más populares en la actualidad y se utiliza para generar "single page application", más
+que nada se refiere a páginas que cuando tu empiezas a interactuar con ellas estas no se recargan y te entregan una
+interacción un poco más fluida
+******************************************************************************************************************************
